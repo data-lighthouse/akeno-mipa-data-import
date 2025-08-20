@@ -183,3 +183,6 @@ cython_debug/
 # Ignore excel files
 *.xlsx
 *.xls
+
+# Add ds store
+.DS_Store
